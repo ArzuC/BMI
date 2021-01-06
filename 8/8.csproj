@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_8</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Lenova\Desktop\c#\Arzu CAFEROĞLU-BMI.cs" Link="Arzu CAFEROĞLU-BMI.cs" />
+  </ItemGroup>
+
+</Project>
